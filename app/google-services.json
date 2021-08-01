@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025838860708",
+    "project_id": "hawlstargram-f16",
+    "storage_bucket": "hawlstargram-f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025838860708:android:6874939737f181a1289931",
+        "android_client_info": {
+          "package_name": "com.example.hawlstargram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025838860708-ivf6s3ebkk10e2r5sk0kqbb4f5gqpakh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXzrjt6Do37x6oySXfEuBnCHHQpPt__M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025838860708-ivf6s3ebkk10e2r5sk0kqbb4f5gqpakh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
